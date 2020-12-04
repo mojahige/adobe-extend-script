@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "name": "@aes/ps-set-copyright",
+  "author": "mojahige <mojahige@gmail.com>",
+  "main": "src/ps-set-copyright.js",
+  "directories": {
+    "src": "src",
+    "test": "__tests__"
+  },
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "watch": "tsc --watch",
+    "build": "tsc",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
